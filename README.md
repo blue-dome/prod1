@@ -1,1 +1,1 @@
-# proj_mgn
+# proj_mgn is for project and bug tracking
